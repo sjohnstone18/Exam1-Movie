@@ -10,7 +10,7 @@ int main()
 		Movie("Monte Python's Meaning of Life", "Comedy", 5), Movie("Jaws", "Horror", 7),
 		Movie("Fletch", "Comedy", 10), Movie("Usual Suspects", "Action", 12),
 		Movie("Bull Durham", "Comedy", 14), Movie("Ocean's Eleven", "Action", 16),
-		Movie("Monte Python's Meaning of Life", "Comedy", 19), Movie("Jaws", "Horror", 21),
+		Movie("Monte Python's Meaning of Life", "Comedy", 18), Movie("Jaws", "Horror", 21),
 		Movie("Usual Suspects", "Action", 23),
 	};
 	Theater garland("The Garland", "509-327-2509");

@@ -1,5 +1,7 @@
 ﻿  Theater.cpp
-\\cs1\2018\sjohnstone18\cs172-2\exam\cs2-exam1\exam1-movie\exam 1 movie\exam 1 movie\theater.cpp(20): error C3867: 'Movie::GetShowtime': non-standard syntax; use '&' to create a pointer to member
-\\cs1\2018\sjohnstone18\cs172-2\exam\cs2-exam1\exam1-movie\exam 1 movie\exam 1 movie\theater.cpp(20): error C2446: '==': no conversion from 'int' to 'int (__thiscall Movie::* )(void)'
-  \\cs1\2018\sjohnstone18\cs172-2\exam\cs2-exam1\exam1-movie\exam 1 movie\exam 1 movie\theater.cpp(20): note: There are no conversions from integral values to pointer-to-member values
-\\cs1\2018\sjohnstone18\cs172-2\exam\cs2-exam1\exam1-movie\exam 1 movie\exam 1 movie\theater.cpp(21): error C3867: 'Movie::GetTitle': non-standard syntax; use '&' to create a pointer to member
+  Movie.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  Exam 1 Movie.vcxproj -> C:\Users\sjohn\Desktop\Exam1-Movie\Exam 1 Movie\Debug\Exam 1 Movie.exe
+  Exam 1 Movie.vcxproj -> C:\Users\sjohn\Desktop\Exam1-Movie\Exam 1 Movie\Debug\Exam 1 Movie.pdb (Full PDB)

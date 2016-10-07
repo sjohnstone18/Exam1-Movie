@@ -15,14 +15,13 @@ public:
 										  // Return -1 if none exist
 	int GetPopcornPrice(); //Make up a cost in dollars for popcorn
 	int GetCokePrice(); //Make up a cost on Coke
-	Movie movieListing[11];
 
 public:
 	int PopcornPrice = 10;
 	int CokePrice = 5;
 	string Name;
 	string Phone;
-
+	Movie TheaterMovie[11]; //array that holds the movies at the theater.  said 11 because MOVIECOUNT is not global
 	
 };
 
